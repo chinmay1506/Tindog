@@ -1,0 +1,151 @@
+body{
+  font-family: Montserrat;
+  }
+  h1{
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-bottom: 20px;
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+.container-fluid{
+  padding: 3% 5%;
+}
+#title{
+  background-color: #ff4c68;
+}
+.navbar{
+  margin: auto;
+}
+.navbar-brand{
+  margin-left: 200px;
+  font-size: 2.5rem;
+  font-family: Ubuntu;
+  font-weight: 400;
+}
+.tlogo{
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  top: 25px;
+  left: 175px;
+}
+.navbar-toggler{
+  margin-right: 80px;
+}
+.navbar-nav{
+  margin: auto 160px;
+  font-size: 20px
+}
+.nav-item{
+  margin: auto 20px;
+}
+.btn-D:hover {
+  background-color: grey;
+  color: black
+}
+.row-first{
+  margin: 60px 90px auto 100px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.phone{
+  width: 60%;
+  transform: rotate(25deg);
+}
+#features{
+  margin: 50px 30px 100px;
+}
+span{
+  color: #ef8172;
+  font-size: 50px;
+  margin-bottom: 12px;
+}
+span:hover {
+  color: #ff4c68;
+}
+h3{
+  font-size: 1.5rem;
+  font-weight: bolder;
+  line-height: 2rem;
+}
+p{
+  color: #8f8f8f;
+}
+.row-2{
+  text-align: center;
+}
+.feature-box{
+  padding: 5%;
+}
+#testimonials{
+  background-color:#ff4c68;
+  text-align: center;
+  color: #fff;
+}
+.carousel-item{
+  padding: 8% 15% 6%;
+}
+
+h2{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 2%;
+}
+.testimonial-image{
+  width: 12%;
+  border-radius: 100%;
+  margin: 2%;
+}
+#press{
+  padding-top: 2%;
+  padding-bottom: 6%;
+  background-color: #ff4c68;
+  text-align: center;
+}
+.tech-images{
+  width: 17%;
+  padding: 1%;
+}
+#pricing{
+  margin: 5% 5% 10%;
+  text-align: center;
+}
+.pricing{
+  text-align: center;
+  margin: auto 200px auto;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.price-box{
+  background-color: lightgrey;
+  border-style: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.column{
+  border: 0 10px 10px;
+  border-style: solid;
+  border-color: lightgrey;
+  padding-bottom: 30px;
+}
+.button{
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 10px;
+  padding: 10px 80px;
+  background-color: #ff4c68;
+  border-style: solid;
+  border-color: #ff4c68;
+  color: #fff;
+}
+.button:hover{
+  color: black;
+  background-color: #fff;
+  border-color: #000;
+}
